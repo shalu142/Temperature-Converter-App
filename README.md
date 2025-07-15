@@ -65,6 +65,10 @@ java TemperatureConverter
 
 Output:
 
+<img width="364" height="320" alt="Image" src="https://github.com/user-attachments/assets/20dfeef3-fa5e-414d-b6ce-ef639ad63b67" />
+<img width="356" height="311" alt="Image" src="https://github.com/user-attachments/assets/a34c6f54-b209-4e8d-84b3-b4c98dfdbae9" />
+<img width="361" height="316" alt="Image" src="https://github.com/user-attachments/assets/9ff1eae3-cdc5-4071-99ed-5a16aefa752c" />
+
 
 
 🧑‍💻 Author
