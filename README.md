@@ -74,5 +74,3 @@ Output:
 🧑‍💻 Author
 
 Shalu Baloda
-
-Software Development Intern at Cognifyz Technologies
